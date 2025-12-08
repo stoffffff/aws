@@ -1,6 +1,6 @@
 # FROM CONSOLE
 ***Selecting default VPC - Name -- Associated VPC's IPV4 CIDR Block && CIDR Block to allocate to the subnet<br>***
-***If you are choosing the default VPC, AWS already created some subnets inside it, so beware from choosing a CIDR Block that overlaps with allocated one***
+***If you are choosing the default VPC, AWS already created some subnets inside it, so beware from choosing a CIDR Block that overlaps with an allocated one***
 
 ![networking/subnet/sc/subnet-console.png](sc/subnet-console.png)
 # DONE
