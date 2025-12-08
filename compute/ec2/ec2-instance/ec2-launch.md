@@ -11,14 +11,14 @@
 # DONE
 ![alt text](sc/step4.png)
 # FROM CLI
-***aws ec2 run-instances \\***
-  ***--image-id 'YOUR_IMAGE_ID' \\***
-  ***--instance-type t2.micro \\***
-  ***--key-name 'YOUR_KEY_NAME' \\***
-  ***--security-group-ids 'YOUR_SG_ID' \\***
-  ***--subnet-id 'YOUR_SUBNET_ID' \\***
-  ***--associate-public-ip-address \\***
-  ***--count 1 \\***
+***aws ec2 run-instances \\***<br>
+  ***--image-id 'YOUR_IMAGE_ID' \\***<br>
+  ***--instance-type t2.micro \\***<br>
+  ***--key-name 'YOUR_KEY_NAME' \\***<br>
+  ***--security-group-ids 'YOUR_SG_ID' \\***<br>
+  ***--subnet-id 'YOUR_SUBNET_ID' \\***<br>
+  ***--associate-public-ip-address \\***<br>
+  ***--count 1 \\***<br>
   ***--tag-specifications 'ResourceType=instance,Tags=[{Key=Name,Value=viktor-from-cli}]'***
 
 ![alt text](sc/step6.png)
