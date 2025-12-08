@@ -1,8 +1,9 @@
 # FROM Console
 ***You can rename it as you like***
+
 ![alt text](sc/eip-console.png)
 # DONE
-![alt text](image.png)
+![alt text](sc/eip-console-created.png)
 # FROM CLI
 ***aws ec2 allocate-address --domain vpc***
 
