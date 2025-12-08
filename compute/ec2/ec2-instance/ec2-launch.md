@@ -4,7 +4,7 @@
 ![alt text](sc/step1.png)
 ***Create or select an existing key-pair (your credentials to ssh to the machine)***
 
-![alt text](sc/step2.png)
+![alt text](sc/step2.png)<br>
 ***Select existing security group or create a new one then select it<br>Finally, click 'Launch' instance'***
 
 ![alt text](sc/step3.png)
