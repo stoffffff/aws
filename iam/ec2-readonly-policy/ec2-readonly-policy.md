@@ -15,15 +15,15 @@
   ***--region us-east-1***
 
 ***CONTENT of ec2-readonly-policy.json ***<br>
-***{***
-  ***"Version": "2012-10-17",***
-  ***"Statement": [***
-    ***{***
-      ***"Effect": "Allow",***
-      ***"Action": [***
-        ***"ec2:Describe*"***
-      ***],***
-      ***"Resource": "*"***
-    ***}***
-  ***]***
-***}***
+***{***<br>
+  ***"Version": "2012-10-17",***<br>
+  ***"Statement": [***<br>
+    ***{***<br>
+      ***"Effect": "Allow",***<br>
+      ***"Action": [***<br>
+        ***"ec2:Describe*"***<br>
+      ***],***<br>
+      ***"Resource": "*"***<br>
+    ***}***<br>
+  ***]***<br>
+***}***<br>
