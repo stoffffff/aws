@@ -5,9 +5,9 @@
 ![alt text](scs/step3.png)
 
 # FROM CLI
-***aws rds create-db-snapshot \\***
-  ***--db-instance-identifier devops-rds \\***
-  ***--db-snapshot-identifier devops-rds-snapshot-from-cli***
+***aws rds create-db-snapshot \\***<br>
+  ***--db-instance-identifier devops-rds \\***<br>
+  ***--db-snapshot-identifier devops-rds-snapshot-from-cli***<br>
 
 ![alt text](scs/step4.png)
 # DONE
